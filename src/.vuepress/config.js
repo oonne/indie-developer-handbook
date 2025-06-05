@@ -4,8 +4,8 @@ import { viteBundler } from "@vuepress/bundler-vite";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "SEO 工作手册",
-  description: "SEO 工作手册 - 工程师加一",
+  title: "独立开发者工作手册",
+  description: "独立开发者工作手册 - 工程师加一",
   theme: defaultTheme({
     navbar: [
       {
