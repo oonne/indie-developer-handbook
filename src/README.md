@@ -1,16 +1,12 @@
 # SEO 工作手册
 
+## 简介
+
+这是一份自用的 SEO 工作手册，记录了在 SEO 工作中使用的各种工具和方法。
+
 ## 作者
 
 [工程师加一](https://blog.oonne.com)
 
-## 简介
-
-这是一份 SEO 工作手册，记录了在 SEO 工作中使用的各种工具和方法。
-
-## 目录
-
-- [分析需求](./guide/analysis.md)
-- [开发网站](./guide/development.md)
-- [获取外链](./guide/backlinks.md)
-- [辅助工具](./guide/tools.md)
+如需商务合作或技术交流，可以关注微信公众号“工程师加一”，并直接给我留言。
+![微信二维码](img/wx.png)
