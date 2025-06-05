@@ -23,6 +23,7 @@ export default defineUserConfig({
         text: "目录",
         children: [
           "/pages/analysis-request/index.md",
+          "/pages/template/index.md",
           "/pages/development/index.md",
           "/pages/backlinks/index.md",
           "/pages/other/index.md",
