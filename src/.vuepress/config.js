@@ -7,10 +7,6 @@ export default defineUserConfig({
   title: "SEO 工作手册",
   description: "SEO 工作手册 - 工程师加一",
   theme: defaultTheme({
-    nav: [
-      { text: "首页", link: "/" },
-      { text: "博客", link: "https://blog.oonne.com" },
-    ],
     sidebar: [
       {
         text: "目录",
@@ -24,4 +20,5 @@ export default defineUserConfig({
     ],
   }),
   bundler: viteBundler(),
+  base: "/SEO-handbook/",
 });

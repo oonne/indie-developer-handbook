@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.23" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>SEO 工作手册</title><meta name="description" content="SEO 工作手册 - 工程师加一">
+    <link rel="preload" href="/SEO-handbook/assets/style-C7lzZjkS.css" as="style"><link rel="stylesheet" href="/SEO-handbook/assets/style-C7lzZjkS.css">
+    <link rel="modulepreload" href="/SEO-handbook/assets/app-Bd022j5C.js"><link rel="modulepreload" href="/SEO-handbook/assets/404.html-Dqd02ijI.js">
+    <link rel="prefetch" href="/SEO-handbook/assets/index.html-FOFLFFcC.js" as="script"><link rel="prefetch" href="/SEO-handbook/assets/analysis.html-BQ8xbDyI.js" as="script"><link rel="prefetch" href="/SEO-handbook/assets/backlinks.html-DD4vWYPR.js" as="script"><link rel="prefetch" href="/SEO-handbook/assets/development.html-1FgpFagK.js" as="script"><link rel="prefetch" href="/SEO-handbook/assets/tools.html-DS2g0TeP.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-bbd54440><main class="page" data-v-bbd54440><div vp-content data-v-bbd54440><h1 data-v-bbd54440>404</h1><blockquote data-v-bbd54440>There&#39;s nothing here.</blockquote><a class="route-link" href="/SEO-handbook/" data-v-bbd54440>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/SEO-handbook/assets/app-Bd022j5C.js" defer></script>
+  </body>
+</html>
