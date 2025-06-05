@@ -25,7 +25,7 @@ export default defineUserConfig({
           "/pages/analysis-request/index.md",
           "/pages/technology/index.md",
           "/pages/development/index.md",
-          "/pages/backlinks/index.md",
+          "/pages/get-customer/index.md",
           "/pages/other/index.md",
         ],
       },
