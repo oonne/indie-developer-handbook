@@ -32,5 +32,5 @@ export default defineUserConfig({
     ],
   }),
   bundler: viteBundler(),
-  base: "/SEO-handbook/",
+  base: "/indie-developer-handbook/",
 });

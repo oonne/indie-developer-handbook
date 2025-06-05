@@ -10,7 +10,7 @@
 - [App (Flutter)](https://github.com/oonne/flutter-demo)
 - [微信小程序 (原生 TypeScript)](https://github.com/oonne/nuxt-demo)
 
-# 海外收款
+## 海外收款
 
 - [Paddle](https://www.paddle.com/)
 - [Stripe](https://stripe.com/)
@@ -18,3 +18,39 @@
 - [Lemon Squeezy](https://www.lemonsqueezy.com/)
 - [Creem](https://www.creem.io/)
 - [Paypal](https://www.paypal.com/)
+
+## 技术栈
+
+### 编程
+
+- TypeScript 👍🏻
+- Python
+- PHP
+
+### 样式
+
+- Tailwindcss
+- Ant Design
+
+### 前端
+
+- React 👍🏻
+- Vue 👍🏻
+- Next.js 👍🏻
+- 微信小程序 👍🏻
+- Jquery
+
+### 后端
+
+- Nest(Node.js) 👍🏻
+- FastAPI(Python)
+- Yii2(PHP)
+
+### App
+
+- Flutter 👍🏻
+- Uniapp
+
+### 游戏
+
+- Cocos Creator 👍🏻
