@@ -70,6 +70,8 @@
 
 - [工程师加一](https://blog.oonne.com/)
 
+- [AI 工具集](https://ai-bot.cn/)
+
 - [虚拟游乐园](https://www.boomcatcher.com/friend-link-application)
 
 - [有趣网址之家](https://youquhome.com/standard/)
