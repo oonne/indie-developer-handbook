@@ -49,7 +49,6 @@
 ### App
 
 - Flutter 👍🏻
-- Uniapp
 
 ### 游戏
 
