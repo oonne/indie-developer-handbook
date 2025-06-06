@@ -10,15 +10,6 @@
 - [App (Flutter)](https://github.com/oonne/flutter-demo)
 - [微信小程序 (原生 TypeScript)](https://github.com/oonne/nuxt-demo)
 
-## 海外收款
-
-- [Paddle](https://www.paddle.com/)
-- [Stripe](https://stripe.com/)
-- [Paypro](https://payproglobal.com/)
-- [Lemon Squeezy](https://www.lemonsqueezy.com/)
-- [Creem](https://www.creem.io/)
-- [Paypal](https://www.paypal.com/)
-
 ## 技术栈
 
 ### 编程

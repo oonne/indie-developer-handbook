@@ -26,6 +26,7 @@ export default defineUserConfig({
           "/pages/technology/index.md",
           "/pages/development/index.md",
           "/pages/get-customer/index.md",
+          "/pages/monetization/index.md",
           "/pages/operations/index.md",
           "/pages/other/index.md",
         ],
