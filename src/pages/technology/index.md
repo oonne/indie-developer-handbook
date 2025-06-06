@@ -10,6 +10,13 @@
 - [App (Flutter)](https://github.com/oonne/flutter-demo)
 - [微信小程序 (原生 TypeScript)](https://github.com/oonne/nuxt-demo)
 
+## 官方文档
+
+- [NestJS](https://nestjs.com/)
+- [NextJS](https://nextjs.org/docs)
+- [Nuxt](https://nuxt.com.cn/)
+- [Flutter](https://docs.flutter.cn/)
+
 ## 技术栈
 
 ### 编程
@@ -33,7 +40,7 @@
 
 ### 后端
 
-- Nest(Node.js) 👍🏻
+- NestJS(Node.js) 👍🏻
 - FastAPI(Python)
 - Yii2(PHP)
 

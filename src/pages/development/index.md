@@ -17,6 +17,18 @@
 
 ---
 
+- [Favicon Generator](https://realfavicongenerator.net/)
+
+  > 生成网站的 Favicon。
+
+---
+
+- [App Icon Generator](https://www.appicon.co/#app-icon)
+
+  > 生成 App 的图标。
+
+---
+
 - [ChatGPT](https://chat13.aichatos.xyz)
 
   > 不用翻墙就能用的 ChatGPT。
