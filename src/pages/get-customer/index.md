@@ -36,41 +36,47 @@
 
   > 可以提交自己的文章，发帖非常严格，容易封号。
 
----
-
-- [Reddit](https://www.reddit.com/)
-
-  > 论坛，可发帖。
-
 ## 海外宣传（No-follow 外链）
 
 - [Quora](https://www.quora.com/profile/Hehe-Jay)
 
   > 问答社区。
+  > 插入的链接是 No-follow 链接。
 
 ---
 
 - [X.com](https://x.com/onehejay)
 
   > 推特。
+  > 插入的链接是 No-follow 链接。
 
 ---
 
 - [Facebook](https://www.facebook.com/)
 
   > 社交平台。
+  > 插入的链接是 No-follow 链接。
 
 ---
 
 - [Medium](https://medium.com/@oonnejay/)
 
   > 发文比较自由，优质内容可以获得推荐。
+  > 插入的链接是 No-follow 链接。
+
+---
+
+- [Reddit](https://www.reddit.com/)
+
+  > 论坛，可发帖。
+  > 插入的链接是 No-follow 链接。
 
 ---
 
 - [GitHub](https://github.com/oonne)
 
-  > 可以把项目开源，并在 Readme 中添加连接（No-follow 外链）。
+  > 可以把项目开源。
+  > 在 Readme 中插入的链接是 No-follow 链接。
 
 ## 国内外链
 
