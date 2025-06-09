@@ -18,9 +18,9 @@
 
   > 看竞品的外链，跟着做。
 
-## 海外外链
+## 海外外链(Do-follow 外链)
 
-- [DEV.io](https://dev.to/)
+- [DEV.to](https://dev.to/oonne)
 
   > 开发者社区。
 
@@ -38,17 +38,23 @@
 
 ---
 
-- [Medium](https://medium.com/)
-
-  > 发文比较自由，优质内容可以获得推荐。适合大量发文建设外链。
-
----
-
 - [Reddit](https://www.reddit.com/)
 
   > 论坛，可发帖。
 
-## 海外宣传
+## 海外宣传（No-follow 外链）
+
+- [Quora](https://www.quora.com/profile/Hehe-Jay)
+
+  > 问答社区。
+
+---
+
+- [X.com](https://x.com/onehejay)
+
+  > 推特。
+
+---
 
 - [Facebook](https://www.facebook.com/)
 
@@ -56,15 +62,15 @@
 
 ---
 
-- [Quora](https://www.quora.com/)
+- [Medium](https://medium.com/@oonnejay/)
 
-  > 问答社区。
+  > 发文比较自由，优质内容可以获得推荐。
 
 ---
 
-- [X.com](https://x.com/)
+- [GitHub](https://github.com/oonne)
 
-  > 推特。
+  > 可以把项目开源，并在 Readme 中添加连接（No-follow 外链）。
 
 ## 国内外链
 
