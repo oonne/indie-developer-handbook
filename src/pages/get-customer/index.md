@@ -36,6 +36,14 @@
 
   > 可以提交自己的文章，发帖非常严格，容易封号。
 
+---
+
+### AI/工具 导航站
+
+- [Toools.design](https://www.toools.design/)
+- [helpy-ui](https://helpy-ui.com/)
+- [Vibe Coding](https://vibecodingcase.com/)
+
 ## 海外宣传（No-follow 外链）
 
 - [Quora](https://www.quora.com/profile/Hehe-Jay)
@@ -83,6 +91,8 @@
 - [工程师加一](https://blog.oonne.com/)
 
 - [AI 工具集](https://ai-bot.cn/)
+
+- [AI Query Tool](https://www.aiquerytool.com/contribute)
 
 - [虚拟游乐园](https://www.boomcatcher.com/friend-link-application)
 
