@@ -7,6 +7,8 @@ export default defineUserConfig({
   title: "独立开发者工作手册",
   description: "独立开发者工作手册 - 工程师加一",
   theme: defaultTheme({
+    repo: "oonne/indie-developer-handbook",
+
     navbar: [
       {
         text: "首页",
