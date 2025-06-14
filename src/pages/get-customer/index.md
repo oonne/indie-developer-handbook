@@ -94,6 +94,6 @@
 
 - [AI Query Tool](https://www.aiquerytool.com/contribute)
 
-- [虚拟游乐园](https://www.boomcatcher.com/friend-link-application)
+- [虚拟游乐园](https://www.boomcatcher.com/?mref=253)
 
 - [有趣网址之家](https://youquhome.com/standard/)
