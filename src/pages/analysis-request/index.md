@@ -1,12 +1,18 @@
 # 分析需求
 
-## 趋势
+## 需求分析
 
 > 研究趋势，发现红海。
 
-- [Google Trends](https://trends.google.com/trends/)
+- [Google Trends 谷歌趋势](https://trends.google.com/trends/)
 
-- [TrendingKeywords](https://trendingkeywords.net/)
+- [TrendingKeywords 热门搜索关键词趋势](https://trendingkeywords.net/)
+
+- [Ubersuggest 查关键词搜索量](https://neilpatel.com/ubersuggest/)
+
+- [AITDK 浏览器插件，可显示网站访问量](https://chromewebstore.google.com/detail/hhfkpjffbhledfpkhhcoidplcebgdgbk)
+
+- [Semrush 关键词详细分析](https://www.semrush.com/)
 
 ## 榜单
 
