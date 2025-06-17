@@ -86,6 +86,18 @@
   > 可以把项目开源。
   > 在 Readme 中插入的链接是 No-follow 链接。
 
+---
+
+- [Instagram](https://www.instagram.com/)
+
+  > 图片社交平台。
+
+---
+
+- [Pinterest](https://www.pinterest.com/)
+
+  > 图片社交平台，设计、艺术、时尚、美食、旅行、家居装修类目比较丰富。
+
 ## 国内外链
 
 - [工程师加一](https://blog.oonne.com/)
