@@ -4,10 +4,11 @@
 
 - [Cursor](https://www.cursor.com/)
 
-## 服务器
+## 服务器/服务
 
-- [海外 Cloudflare](https://www.cloudflare.com/)
-- [国内 阿里云](https://www.aliyun.com/)
+- [国内服务器 - 阿里云](https://www.aliyun.com/)
+- [海外服务器 - Cloudflare](https://www.cloudflare.com/)
+- [发邮件 - Resend](https://resend.com/)
 
 ## 在线工具
 
