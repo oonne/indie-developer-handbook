@@ -109,3 +109,5 @@
 - [虚拟游乐园](https://www.boomcatcher.com/?mref=253)
 
 - [有趣网址之家](https://youquhome.com/standard/)
+
+- [萌 ICP 备案](https://icp.gov.moe/join.php)
