@@ -15,3 +15,9 @@
 - [申请软著](https://www.ccopyright.com.cn/)
 
   > 申请周期 1 个月以上。
+
+---
+
+- [电子税务局（广东省）](https://etax.guangdong.chinatax.gov.cn:8443/)
+
+  > 给别人开发票用的，每个省的不一样。
