@@ -9,6 +9,7 @@
 - [国内服务器 - 阿里云](https://www.aliyun.com/)
 - [海外服务器 - Cloudflare](https://www.cloudflare.com/)
 - [发邮件 - Resend](https://resend.com/)
+- [登录 - Auth.js](http://authjs.dev/)
 
 ## 在线工具
 
