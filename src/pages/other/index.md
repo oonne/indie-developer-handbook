@@ -3,7 +3,12 @@
 ## 出海必备
 
 - [科学上网 - KCSSR](https://卡车.net/auth/register?code=FFKU)
-  > 自用多年，没出过问题，很稳定。可使用支付宝付费。
+  > 可使用支付宝付费。
+
+---
+
+- [科学上网 - 追云加速](https://zhuiyun.shop/#/register?code=9jVl2aWI)
+  > 可使用支付宝付费。
 
 ---
 
