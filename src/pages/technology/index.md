@@ -7,15 +7,17 @@
 - [海外网站 (Next + Cloudflare)](https://github.com/oonne/next-demo)
 - [国内网站 (Vue3 + Ant Design)](https://github.com/oonne/antdv-demo)
 - [后台 API (Nest)](https://github.com/oonne/nest-demo)
+- [后台 API (FastApi)](https://github.com/oonne/fastapi-demo)
 - [App (Flutter)](https://github.com/oonne/flutter-demo)
 - [微信小程序 (原生 TypeScript)](https://github.com/oonne/nuxt-demo)
 
 ## 官方文档
 
-- [NestJS](https://nestjs.com/)
-- [NextJS](https://nextjs.org/docs)
-- [Nuxt](https://nuxt.com.cn/)
-- [Flutter](https://docs.flutter.cn/)
+- [后台 NestJS](https://nestjs.com/)
+- [后台 FastApi](https://fastapi.tiangolo.com/)
+- [前端 NextJS](https://nextjs.org/docs)
+- [前端 Nuxt](https://nuxt.com.cn/)
+- [App Flutter](https://docs.flutter.cn/)
 
 ## 技术栈
 
