@@ -16,6 +16,8 @@
 
 - [Ahrefs 检查外链](https://ahrefs.com/zh/backlink-checker)
 
+- [DR 值监控](https://verifieddr.com/)
+
   > 看竞品的外链，跟着做。
 
 ## 海外外链(Do-follow 外链)
