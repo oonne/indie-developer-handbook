@@ -3,20 +3,8 @@
 ## 出海必备
 
 - [科学上网 - KCSSR](https://卡车.net/auth/register?code=FFKU)
+
   > 可使用支付宝付费。
-
----
-
-- [科学上网 - 追云加速](https://zhuiyun.shop/#/register?code=9jVl2aWI)
-  > 可使用支付宝付费。
-
----
-
-- [虚拟信用卡 - 野卡](https://yeka.ai/i/OONNE)
-
-  > 用于支付 ChatGPT、Cursor、Cloudflare、Suno 等海外服务。可使用支付宝付费。
-
----
 
 - [指纹浏览器 - AdsPower](https://share.adspower.net/oA963E)
 
