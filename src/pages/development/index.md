@@ -1,13 +1,10 @@
 # 研发提效
 
-## AI 编程
-
-- [Cursor](https://www.cursor.com/)
-
 ## 服务器/服务
 
 - [国内服务器 - 阿里云](https://www.aliyun.com/)
 - [海外服务器 - Cloudflare](https://www.cloudflare.com/)
+- [海外服务器 - Oracle Cloud](https://www.oracle.com/cloud/)
 - [发邮件 - Resend](https://resend.com/)
 - [登录 - Auth.js](http://authjs.dev/)
 
@@ -28,9 +25,3 @@
 - [App Icon Generator](https://www.appicon.co/#app-icon)
 
   > 生成 App 的图标。
-
----
-
-- [ChatGPT](https://chat13.aichatos.xyz)
-
-  > 不用翻墙就能用的 ChatGPT。
