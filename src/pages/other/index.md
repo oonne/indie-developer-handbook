@@ -4,7 +4,21 @@
 
 - [科学上网 - KCSSR](https://卡车.net/auth/register?code=FFKU)
 
-  > 可使用支付宝付费。
+  > 数年稳定使用，省心，可使用支付宝付费。
+
+---
+
+- [海外电话卡-giffgaff](http://www.giffgaff.com/orders/affiliate/sb703_1783433979788)
+
+  > 可在国内收验证码，0月租，每半年只需发一条短信保号即可，成本极低。
+
+---
+
+- [Outlook 邮箱](https://outlook.live.com/)
+
+  > 如需注册海外邮箱，Outlook 的注册门槛是最低的，不需要海外手机或其他验证即可注册成功。
+
+---
 
 - [指纹浏览器 - AdsPower](https://share.adspower.net/oA963E)
 
