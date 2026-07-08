@@ -8,15 +8,21 @@
 
 ---
 
-- [海外电话卡-giffgaff](http://www.giffgaff.com/orders/affiliate/sb703_1783433979788)
+- [海外电话卡 - Giffgaff](http://www.giffgaff.com/orders/affiliate/sb703_1783433979788)
 
   > 可在国内收验证码，0月租，每半年只需发一条短信保号即可，成本极低。
 
 ---
 
-- [Outlook 邮箱](https://outlook.live.com/)
+- [海外邮箱 - Outlook](https://outlook.live.com/)
 
   > 如需注册海外邮箱，Outlook 的注册门槛是最低的，不需要海外手机或其他验证即可注册成功。
+
+---
+
+- [虚拟信用卡 - Credit Card](https://easy-pay.site/?ref=RVB0Zld3ZnZBc0AxNTI5MQ)
+
+  > 可用于购买各种AI 服务，如 ChatGPT 等。
 
 ---
 
