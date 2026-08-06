@@ -4,7 +4,7 @@
 
 自用工作手册，记录了在产品研发中常用的工具和方法。
 
-文档: [独立开发者百科全书](https://oonne.github.io/indie-developer-handbook/)  
+文档: [独立开发者工作手册](https://oonne.github.io/indie-developer-handbook/)  
 作者: [工程师加一](https://blog.oonne.com)
 
 ## 公众号

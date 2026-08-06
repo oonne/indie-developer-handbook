@@ -19,6 +19,10 @@
 - [前端 Nuxt](https://nuxt.com.cn/)
 - [App Flutter](https://docs.flutter.cn/)
 
+## AI模型
+
+- [Deepseek](https://platform.deepseek.com/)
+
 ## 技术栈
 
 ### 编程

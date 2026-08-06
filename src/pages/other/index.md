@@ -20,7 +20,7 @@
 
 ---
 
-- [虚拟信用卡 - Credit Card](https://easy-pay.site/?ref=RVB0Zld3ZnZBc0AxNTI5MQ)
+- [虚拟信用卡 - Coinepay](https://www.coinepay.net/login?referrer=MRPCPBL2)
 
   > 可用于购买各种AI 服务，如 ChatGPT 等。
 
