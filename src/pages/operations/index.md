@@ -12,12 +12,6 @@
 
 ---
 
-- [电子版权](https://www.yibanquan.com.cn/)
-
-  > 使用软著申请电子版权，用于上架国内的App应用商店。
-
----
-
 - [电子税务局（广东省）](https://etax.guangdong.chinatax.gov.cn:8443/)
 
   > 依法纳税，合法经营。
