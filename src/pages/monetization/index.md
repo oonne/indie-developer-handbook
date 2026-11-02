@@ -14,7 +14,3 @@
 - [Lemon Squeezy](https://www.lemonsqueezy.com/)
 - [Creem](https://www.creem.io/)
 - [Paypal](https://www.paypal.com/)
-
-## 国内广告
-
-- [穿山甲](https://www.csjplatform.com/)
