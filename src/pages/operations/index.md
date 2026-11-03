@@ -22,7 +22,7 @@
 
 - [Apple](https://developer.apple.com/cn/)
 
-- [抖音开发者平台]（https://developer.open-douyin.com/）
+- [抖音开发者平台](https://developer.open-douyin.com/)
 
 - [穿山甲广告](https://www.csjplatform.com/union/media/union)
 
